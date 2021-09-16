@@ -1,2 +1,2 @@
 # Password-generator-webapp
-Password generator using HTML,CSS and JavaScript.
+Password generator responsive webapp using HTML,CSS and JavaScript.
